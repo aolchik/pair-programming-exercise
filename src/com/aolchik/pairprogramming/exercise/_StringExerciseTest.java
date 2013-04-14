@@ -1,9 +1,10 @@
+package com.aolchik.pairprogramming.exercise;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
 
-public class StringExerciseTest {
+public class _StringExerciseTest {
 
 	@Test
 	public void withoutXTest() {

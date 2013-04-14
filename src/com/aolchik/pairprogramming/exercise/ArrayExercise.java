@@ -1,3 +1,4 @@
+package com.aolchik.pairprogramming.exercise;
 
 public class ArrayExercise {
 

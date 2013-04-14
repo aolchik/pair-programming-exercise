@@ -1,9 +1,11 @@
+package com.aolchik.pairprogramming.exercise;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
 
-public class ArrayExerciseTest {
+
+public class _ArrayExerciseTest {
 
 	@Test
 	public void maxMirrorTest() {
