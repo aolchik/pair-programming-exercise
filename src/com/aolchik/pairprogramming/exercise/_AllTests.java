@@ -6,6 +6,6 @@ import org.junit.runners.Suite.SuiteClasses;
 
 @RunWith(Suite.class)
 @SuiteClasses({ _ArrayExerciseTest.class, _StringExerciseTest.class})
-public class _PairProgrammingExerciseTests {
+public class _AllTests {
 
 }
