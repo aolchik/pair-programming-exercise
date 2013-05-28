@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 
 
-public class _StringExerciseTest {
+public class StringExerciseTest {
 
 	@Test
 	public void withoutXTest() {

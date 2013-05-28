@@ -5,7 +5,7 @@ import org.junit.Test;
 
 
 
-public class _ArrayExerciseTest {
+public class ArrayExerciseTest {
 
 	@Test
 	public void maxMirrorTest() {
